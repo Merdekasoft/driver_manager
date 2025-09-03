@@ -1,3 +1,4 @@
+![Logo GitHub](https://i.imgur.com/I1zBwBX.png)
 
 Driver Manager
 A Qt-based GUI for Managing Drivers on Debian-based Systems
